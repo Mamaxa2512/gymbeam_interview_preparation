@@ -1,0 +1,21 @@
+product_id,product_name,category,cost_price,current_retail_price,stock_quantity
+P001,iPhone 15 Pro Max 256GB,Smartphones,900.00,1299.00,45
+P002,Samsung Galaxy S24 Ultra,Smartphones,850.00,1020.00,30
+P003,Google Pixel 8 Pro,Smartphones,650.00,899.00,25
+P004,OnePlus 12 5G,Smartphones,550.00,699.00,15
+P005,Xiaomi 14 Ultra,Smartphones,700.00,999.00,20
+P006,"MacBook Air M3 13""",Laptops,800.00,1099.00,50
+P007,ASUS ROG Zephyrus G14,Laptops,1200.00,1440.00,12
+P008,Lenovo ThinkPad X1 Carbon,Laptops,1400.00,1899.00,8
+P009,Dell XPS 15 9530,Laptops,1300.00,1599.00,10
+P010,Acer Swift Go 14,Laptops,500.00,699.00,40
+P011,Apple Watch Series 9,Gadgets,280.00,399.00,60
+P012,Garmin Fenix 7 Pro,Gadgets,500.00,599.00,18
+P013,Meta Quest 3 128GB,Gadgets,380.00,499.00,22
+P014,DJI Mini 4 Pro Fly More,Gadgets,750.00,959.00,14
+P015,Nintendo Switch OLED,Gadgets,250.00,349.00,35
+P016,Sony WH-1000XM5 Headphones,Accessories,240.00,349.00,80
+P017,Anker 737 Power Bank 24K,Accessories,100.00,120.00,100
+P018,Keychron K2 V2 Keyboard,Accessories,70.00,99.00,45
+P019,Logitech MX Master 3S,Accessories,65.00,99.00,70
+P020,SanDisk Extreme 1TB SSD,Accessories,80.00,119.00,120
